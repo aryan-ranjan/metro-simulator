@@ -1,0 +1,17 @@
+For Bonus:
+Im calculating fare based on the time travel but which is also computed based on distance. (interchanging time has been not compensated)
+
+Current Metro Fare Slabs have been taken from this source.
+source: "https://www.magicbricks.com/news/delhi-metro-fares-up-after-8-years--delhi-metros-2025-hike-explained-pmmb/142061.html"
+It provides the fare as per the distance so for my program i calculated the approximate time shown by my simulator to cover that distance through some reference stations.
+Got the distance between the two stations through google maps for verification.
+
+Thus I used this table:
+
+distance(km)	approx. time(mins)	fare(rupees)	reference starting station 	reference destination station
+0 to 2 		     0-5		   11/-			janakpuri west			Tilak Nagar
+2 to 5		     5-11		   21/-			janakpuri west			Rajouri garden
+5 to 12		     11-25		   31/-			janakpuri west			Karol Bagh
+12 to 21	     25-40		   43/-			janakpuri west			Indraprastha
+21 to 32	     40-60		   54/-			janakpuri west			botanical garden
+32 +		     60+		   64/-			      --			      --	
