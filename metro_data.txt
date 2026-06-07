@@ -1,0 +1,117 @@
+Metro_Line,Current station,Time from previous station,Time till next station,interchange point
+Blue_N,dwarka sector 21,0,3,no
+Blue_N,dwarka sector 8,3,2,no
+Blue_N,dwarka sector 9,2,2,no
+Blue_N,dwarka sector 10,2,2,no
+Blue_N,dwarka sector 11,2,2,no
+Blue_N,dwarka sector 12,2,2,no
+Blue_N,dwarka sector 13,2,2,no
+Blue_N,dwarka sector 14,2,2,no
+Blue_N,dwarka,2,2,no
+Blue_N,dwarka mor,2,2,no
+Blue_N,nawada,2,2,no
+Blue_N,uttam nagar west,2,2,no
+Blue_N,uttam nagar east,2,2,no
+Blue_N,janakpuri west,2,2,yes
+Blue_N,janakpuri east,2,2,no
+Blue_N,tilak nagar,2,2,no
+Blue_N,subhash nagar,2,2,no
+Blue_N,tagore garden,2,2,no
+Blue_N,rajouri garden,2,2,no
+Blue_N,ramesh nagar,2,2,no
+Blue_N,moti nagar,2,2,no
+Blue_N,kirti nagar,2,2,no
+Blue_N,shadipur,2,2,no
+Blue_N,patel nagar,2,2,no
+Blue_N,rajendra place,2,2,no
+Blue_N,karol bagh,2,2,no
+Blue_N,jhandewalan,2,2,no
+Blue_N,ramakrishna ashram marg,2,2,no
+Blue_N,rajiv chowk,2,2,no
+Blue_N,barakhamba road,2,2,no
+Blue_N,mandi house,2,2,no
+Blue_N,supreme court,2,2,no
+Blue_N,indraprastha,2,3,no
+Blue_N,yamuna bank,3,3,no
+Blue_N,akshardham,3,3,no
+Blue_N,mayur vihar phase-i,3,2,no
+Blue_N,mayur vihar extension,2,2,no
+Blue_N,new ashok nagar,2,2,no
+Blue_N,noida sector 15,2,2,no
+Blue_N,noida sector 16,2,2,no
+Blue_N,noida sector 18,2,2,no
+Blue_N,botanical garden,2,3,yes
+Blue_N,golf course,3,2,no
+Blue_N,noida city centre,2,2,no
+Blue_N,sector - 34 noida,2,2,no
+Blue_N,sector - 52 noida,2,2,no
+Blue_N,sector - 61 noida,2,2,no
+Blue_N,sector - 59 noida,2,2,no
+Blue_N,sector - 62 noida,2,2,no
+Blue_N,noida electronic city,2,0,no
+Blue_V,dwarka sector 21,0,3,no
+Blue_V,dwarka sector 8,3,2,no
+Blue_V,dwarka sector 9,2,2,no
+Blue_V,dwarka sector 10,2,2,no
+Blue_V,dwarka sector 11,2,2,no
+Blue_V,dwarka sector 12,2,2,no
+Blue_V,dwarka sector 13,2,2,no
+Blue_V,dwarka sector 14,2,2,no
+Blue_V,dwarka,2,2,no
+Blue_V,dwarka mor,2,2,no
+Blue_V,nawada,2,2,no
+Blue_V,uttam nagar west,2,2,no
+Blue_V,uttam nagar east,2,2,no
+Blue_V,janakpuri west,2,2,yes
+Blue_V,janakpuri east,2,2,no
+Blue_V,tilak nagar,2,2,no
+Blue_V,subhash nagar,2,2,no
+Blue_V,tagore garden,2,2,no
+Blue_V,rajouri garden,2,2,no
+Blue_V,ramesh nagar,2,2,no
+Blue_V,moti nagar,2,2,no
+Blue_V,kirti nagar,2,2,no
+Blue_V,shadipur,2,2,no
+Blue_V,patel nagar,2,2,no
+Blue_V,rajendra place,2,2,no
+Blue_V,karol bagh,2,2,no
+Blue_V,jhandewalan,2,2,no
+Blue_V,ramakrishna ashram marg,2,2,no
+Blue_V,rajiv chowk,2,2,no
+Blue_V,barakhamba road,2,2,no
+Blue_V,mandi house,2,2,no
+Blue_V,supreme court,2,2,no
+Blue_V,indraprastha,2,3,no
+Blue_V,yamuna bank,3,3,no
+Blue_V,laxmi nagar,3,3,no
+Blue_V,nirman vihar,3,2,no
+Blue_V,preet vihar,2,2,no
+Blue_V,karkar duma,2,2,no
+Blue_V,anand vihar,2,2,no
+Blue_V,kaushambi,2,2,no
+Blue_V,vaishali,2,0,no
+Magenta,janakpuri west,0,5,yes
+Magenta,dabri mor - janakpuri south,5,5,no
+Magenta,dashrathpuri,5,2,no
+Magenta,palam,2,4,no
+Magenta,sadar bazaar cantonment,4,3,no
+Magenta,terminal 1 - igi airport,3,3,no
+Magenta,shankar vihar,3,3,no
+Magenta,vasant vihar,3,3,no
+Magenta,munirka,3,2,no
+Magenta,r.k. puram,2,2,no
+Magenta,iit,2,2,no
+Magenta,hauz khas,2,3,no
+Magenta,panchsheel park,3,2,no
+Magenta,chirag delhi,2,2,no
+Magenta,greater kailash,2,2,no
+Magenta,nehru enclave,2,2,no
+Magenta,kalkaji mandir,2,2,no
+Magenta,okhla nsic,2,2,no
+Magenta,sukhdev vihar,2,2,no
+Magenta,jamia millia islamia,2,2,no
+Magenta,okhla vihar,2,5,no
+Magenta,jasola vihar shaheen bagh,5,5,no
+Magenta,kalindi kunj,5,2,no
+Magenta,okhla bird sanctuary,2,3,no
+Magenta,botanical garden,3,0,yes
